@@ -1,0 +1,219 @@
+{
+  "city": "Žilina",
+  "district": "Budatín",
+  "year": 2026,
+  "wasteTypes": {
+    "plast": {
+      "name": "Plast",
+      "color": "#FFD700",
+      "description": "Plastový odpad"
+    },
+    "papier": {
+      "name": "Papier",
+      "color": "#0080FF",
+      "description": "Papierový odpad"
+    },
+    "vkm_kov": {
+      "name": "VKM + kov",
+      "color": "#FF0000",
+      "description": "Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlté vrecia"
+    },
+    "zko": {
+      "name": "ZKO",
+      "color": "#808080",
+      "description": "Zmiešaný komunálny odpad / čierna nádoba"
+    },
+    "brko": {
+      "name": "BRKO",
+      "color": "#8B4513",
+      "description": "Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba"
+    },
+    "zahrada": {
+      "name": "Záhrada",
+      "color": "#00FF00",
+      "description": "Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. Poznámka: služba je samostatne spoplatnená!"
+    }
+  },
+  "districts": {
+    "ZKO_1": {
+      "name": "Budatín ZKO 1",
+      "streets": [
+        "Azúrová", "Béžová", "Biela", "Blankytná", "Bordová", "Budatínska",
+        "Cesta k vodojemu", "Cesta na záhumnie", "Červená", "Do Medžilúžia",
+        "Do parku", "Fialová", "Hnedá", "Hore vŕškom", "Horná", "K múzeu",
+        "Karmínová", "Ku zvonici", "Lúčna", "Modrá", "Na lány", "Okrová",
+        "Purpurová", "Radová", "Sivá", "Slnečná", "Strieborná", "Topoľová",
+        "Tyrkysová", "Záhradná", "Zámocká", "Zelená", "Žltá"
+      ]
+    },
+    "ZKO_2": {
+      "name": "Budatín ZKO 2",
+      "streets": [
+        "Dolná", "Energetikov", "Letná", "Na starej hrádzke", "Námestie hrdinov",
+        "Slovenský dobrovoľníkov", "Závoz", "Železničná"
+      ]
+    },
+    "ZKO_3": {
+      "name": "Budatín ZKO 3",
+      "streets": [
+        "Krištenovej", "Martinčeková", "Sugoňovská", "Čičkániková", "Gulejová"
+      ]
+    },
+    "BRKO_1": {
+      "name": "Budatín BRKO 1",
+      "streets": [
+        "Azúrová", "Béžová", "Biela", "Blankytná", "Bordová", "Budatínska",
+        "Cesta k vodojemu", "Cesta na záhumnie", "Červená", "Do Medžilúžia",
+        "Do parku", "Dolná", "Energetikov", "Fialová", "Hnedá", "Hore vŕškom",
+        "Horná", "K múzeu", "Karmínová", "Ku zvonici", "Letná", "Lúčna", "Modrá",
+        "Na lány", "Na starej hrádzke", "Námestie hrdinov", "Okrová", "Purpurová",
+        "Radová", "Sivá", "Slnečná", "Slovenský dobrovoľníkov", "Strieborná",
+        "Topoľová", "Tyrkysová", "Závoz", "Zámocká", "Zelená", "Železničná", "Žltá"
+      ]
+    },
+    "BRKO_2": {
+      "name": "Budatín BRKO 2",
+      "streets": [
+        "Krištenovej", "Martinčeková", "Sugoňovská", "Čičkániková", "Gulejová"
+      ]
+    },
+    "ALL": {
+      "name": "Všetky ulice Budatín",
+      "streets": [
+        "Azúrová", "Béžová", "Biela", "Blankytná", "Bordová", "Budatínska",
+        "Cesta k vodojemu", "Cesta na záhumnie", "Červená", "Čičkániková",
+        "Do Medžilúžia", "Do parku", "Dolná", "Energetikov", "Fialová",
+        "Gulejová", "Hnedá", "Hore vŕškom", "Horná", "K múzeu", "Karmínová",
+        "Krištenovej", "Ku zvonici", "Letná", "Lúčna", "Martinčeková", "Modrá",
+        "Na lány", "Na starej hrádzke", "Námestie hrdinov", "Okrová",
+        "Purpurová", "Radová", "Sivá", "Slnečná", "Slovenský dobrovoľníkov",
+        "Strieborná", "Sugoňovská", "Topoľová", "Tyrkysová", "Záhradná",
+        "Zámocká", "Závoz", "Zelená", "Železničná", "Žltá"
+      ]
+    }
+  },
+  "schedule": {
+    "plast": {
+      "1": [5, 19],
+      "2": [3, 17],
+      "3": [3, 17],
+      "4": [7, 20],
+      "5": [4, 18],
+      "6": [1, 15],
+      "7": [6, 20],
+      "8": [3, 17],
+      "9": [7, 21],
+      "10": [5, 19],
+      "11": [2, 16],
+      "12": [7, 21]
+    },
+    "papier": {
+      "1": [13],
+      "2": [10],
+      "3": [10],
+      "4": [14],
+      "5": [11],
+      "6": [8],
+      "7": [13],
+      "8": [10],
+      "9": [14],
+      "10": [12],
+      "11": [9],
+      "12": [14]
+    },
+    "vkm_kov": {
+      "1": [27],
+      "2": [24],
+      "3": [24],
+      "4": [28],
+      "5": [25],
+      "6": [22],
+      "7": [27],
+      "8": [24],
+      "9": [28],
+      "10": [26],
+      "11": [23],
+      "12": [28]
+    },
+    "zko_1": {
+      "1": [12, 26],
+      "2": [9, 23],
+      "3": [9, 23],
+      "4": [7, 20],
+      "5": [4, 18],
+      "6": [1, 15, 29],
+      "7": [13, 27],
+      "8": [10, 24],
+      "9": [7, 21],
+      "10": [5, 19],
+      "11": [2, 16, 30],
+      "12": [14, 28]
+    },
+    "zko_2": {
+      "1": [13, 27],
+      "2": [10, 24],
+      "3": [10, 24],
+      "4": [8, 21],
+      "5": [5, 19],
+      "6": [2, 16, 30],
+      "7": [14, 28],
+      "8": [11, 25],
+      "9": [8, 22],
+      "10": [6, 20],
+      "11": [3, 17],
+      "12": [1, 15, 29]
+    },
+    "zko_3": {
+      "1": [14, 28],
+      "2": [11, 25],
+      "3": [11, 25],
+      "4": [9, 22],
+      "5": [6, 20],
+      "6": [3, 17],
+      "7": [1, 15, 29],
+      "8": [12, 26],
+      "9": [9, 23],
+      "10": [7, 21],
+      "11": [4, 18],
+      "12": [2, 16, 30]
+    },
+    "brko_1": {
+      "1": [5, 12, 19, 26],
+      "2": [2, 9, 16, 23],
+      "3": [2, 9, 16, 23, 30],
+      "4": [7, 13, 20, 27],
+      "5": [4, 11, 18, 25],
+      "6": [1, 8, 15, 22, 29],
+      "7": [6, 13, 20, 27],
+      "8": [3, 10, 17, 24, 31],
+      "9": [7, 14, 21, 28],
+      "10": [5, 12, 19, 26],
+      "11": [2, 9, 16, 23, 30],
+      "12": [7, 14, 21, 28]
+    },
+    "brko_2": {
+      "1": [3, 9, 16, 23, 30],
+      "2": [6, 13, 20, 27],
+      "3": [6, 13, 20, 27],
+      "4": [3, 11, 17, 24],
+      "5": [1, 8, 15, 22, 29],
+      "6": [5, 12, 19, 26],
+      "7": [3, 10, 17, 24, 31],
+      "8": [7, 14, 21, 28],
+      "9": [4, 11, 18, 25],
+      "10": [2, 9, 16, 23, 30],
+      "11": [6, 13, 20, 27],
+      "12": [4, 11, 18, 26]
+    },
+    "zahrada": {
+      "4": [1, 15, 29],
+      "5": [13, 27],
+      "6": [10, 24],
+      "7": [8, 22],
+      "8": [5, 19],
+      "9": [2, 16, 30],
+      "10": [14, 28],
+      "11": [11, 25]
+    }
+  }
+}
