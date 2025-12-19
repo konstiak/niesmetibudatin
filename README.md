@@ -60,10 +60,10 @@ npm run preview
 niesmetibudatin/
 ├── src/
 │   ├── components/          # React komponenty
-│   │   ├── CalendarView.js  # Kalendárové zobrazenie
-│   │   ├── EventsList.js    # Zoznam udalostí
-│   │   ├── ScheduleFilters.js # Filtre a export
-│   │   └── WasteLegend.js   # Legenda typov odpadu
+│   │   ├── CalendarView.jsx # Kalendárové zobrazenie
+│   │   ├── EventsList.jsx   # Zoznam udalostí
+│   │   ├── ScheduleFilters.jsx # Filtre a export
+│   │   └── WasteLegend.jsx  # Legenda typov odpadu
 │   ├── App.jsx              # Hlavný komponent aplikácie
 │   ├── main.jsx             # Entry point
 │   ├── styles/
