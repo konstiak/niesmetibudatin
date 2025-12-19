@@ -98,26 +98,28 @@ const App = () => {
       )}
 
       {viewMode === 'print' && (
-        <div style={{ background: '#f5f5f5', minHeight: '100vh', padding: '20px' }}>
-          <div className="container">
-            <div className="filters" style={{ background: 'white', padding: '20px', marginBottom: '20px', borderRadius: '8px' }}>
-              <button
-                className="btn btn-secondary"
-                onClick={() => setViewMode('list')}
-              >
-                ← Späť
-              </button>
-              <button
-                className="btn btn-primary"
-                onClick={() => window.print()}
-                style={{ marginLeft: '10px' }}
-              >
-                🖨️ Vytlačiť
-              </button>
+        <>
+          <div className="print-controls" style={{ background: '#f5f5f5', minHeight: '100vh', padding: '20px' }}>
+            <div className="container">
+              <div className="filters" style={{ background: 'white', padding: '20px', marginBottom: '20px', borderRadius: '8px' }}>
+                <button
+                  className="btn btn-secondary"
+                  onClick={() => setViewMode('list')}
+                >
+                  ← Späť
+                </button>
+                <button
+                  className="btn btn-primary"
+                  onClick={() => window.print()}
+                  style={{ marginLeft: '10px' }}
+                >
+                  🖨️ Vytlačiť
+                </button>
+              </div>
             </div>
           </div>
           <PrintableCalendar events={eventsToShow} selectedStreet={selectedStreet} />
-        </div>
+        </>
       )}
     </div>
   );

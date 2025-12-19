@@ -6,14 +6,14 @@
 
 @media print {
   /* Hide everything except printable calendar */
-  body > div:not(.printable-calendar),
   header,
-  .container,
   .filters,
   .legend,
   .events-list,
   .calendar-view,
-  footer {
+  footer,
+  .print-controls,
+  .info-box {
     display: none !important;
   }
 
@@ -21,6 +21,22 @@
     display: block !important;
     width: 100%;
     padding: 10mm;
+  }
+
+  body {
+    background: white !important;
+  }
+
+  .show-print-preview {
+    background: white !important;
+    min-height: auto !important;
+    padding: 0 !important;
+  }
+
+  /* Make sure root div shows */
+  body > div#root,
+  #root > div {
+    display: block !important;
   }
 
   /* Page setup */
