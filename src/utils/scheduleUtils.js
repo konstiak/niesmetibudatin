@@ -17,7 +17,8 @@ export const generateEvents = () => {
   Object.entries(schedule).forEach(([wasteTypeKey, monthData]) => {
     Object.entries(monthData).forEach(([month, days]) => {
       days.forEach(day => {
-        const date = new Date(year, parseInt(month) - 1, day);
+        // Create date string directly to avoid timezone issues
+        const dateStr = `${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
 
         // Determine which districts this applies to
         let districts = [];
@@ -36,7 +37,7 @@ export const generateEvents = () => {
         }
 
         events.push({
-          date: date.toISOString().split('T')[0],
+          date: dateStr,
           wasteType,
           wasteTypeKey,
           districts,
