@@ -5,12 +5,11 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:xtc_m4Oa4u6vFd1uilllo
+UID:Lio4CLXKX4EAAQSoIxq8E
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260103
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -28,18 +27,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:miHAjoeLjjcqLlc5xC11U
+UID:lJW5Xw_9vDJsN3voCfxFc
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260105
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -57,18 +49,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WKiScEsW_m8Oox391pMfX
+UID:5ggfV9viinw_RvtkHcWet
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260105
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -86,12 +71,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7X0Z7swQ9nGjEWDBLKopi
+UID:Gr-SCG6p33Ar2dQJOvIcm
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260109
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -109,16 +93,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Bob_jfZGmmgeBB_EiGNcp
+UID:7izf2XvDrjJqt7xymvalb
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260112
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -136,18 +115,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aR5i-P4GXRvt-cCvH-GxQ
+UID:hb9D4G7Xn4h7J2aBzFtIQ
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260112
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -165,18 +137,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sLFfjgwiXTwK-cgMsezkS
+UID:Wr1I-RzFtIvqdNJmx4lsk
 SUMMARY:Odvoz: Papier
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260113
-DESCRIPTION:Papierový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\
-	, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, 
-	Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, G
-	ulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\
-	, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej 
-	hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\
-	, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová
-	\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Papierový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -194,13 +159,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7aycodadUL-zIJqsqm5zu
+UID:dWkHLM_gSHiWjChxYXhqe
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260113
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -218,12 +181,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UFvRffRoqQZ77aD0F8yme
+UID:CobbPXjRZyjgiQ0Kcx3si
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260114
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -241,12 +203,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:htJIfcWIuM8CACzfp6ji_
+UID:lIktW3Wkb-rxp0ZiRdcSz
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260116
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -264,18 +225,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rW_m5VavrwtF88FsW_lA0
+UID:8tef8KEiwyJmp5wkeKVe3
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260119
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -293,18 +247,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LqoEyFpRd6qzzIUfx0Ub4
+UID:gIVcriYhtpw6KPeHxxWX3
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260119
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -322,12 +269,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:VkBKlQTmgf4mwLKPlrVBs
+UID:c3lbAfWI10mX0GMOncuQf
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260123
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -345,16 +291,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kIRdzBa6pzthKZZl8BWgZ
+UID:2aMPM-bb6ZsPAlYgySOnc
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260126
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -372,18 +313,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AAPOs66Ydci1w3Qr709P2
+UID:uS9MZ_bEpl7U3IIoI73_B
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260126
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -401,19 +335,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tSn3m4JRMZsvtzeNqGLJ9
+UID:dW9GTf4BLIfzGBsl_cPz6
 SUMMARY:Odvoz: Kov
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260127
 DESCRIPTION:Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlt
-	é vrecia\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatí
-	nska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Čičkániková\, Do M
-	edžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gulejová\, Hnedá\, 
-	Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\, Ku zvonici\, Let
-	ná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej hrádzke\, Námestie
-	 hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovenský dobrov
-	oľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\, Záhradná\, Zámo
-	cká\, Závoz\, Zelená\, Železničná\, Žltá
+	é vrecia
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -431,13 +358,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7Rn55vlDs45I6mbMsVI5f
+UID:MgGMyTQ3FezUA8IyfaZkF
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260127
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -455,12 +380,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eOVN5QoibKx4QWEdTLgmZ
+UID:I0xxo3nLfOT2ORX4rb_N-
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260128
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -478,12 +402,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XhrH3dDAe2GE6faEPcOXL
+UID:nhYvi3ZjvdUSPzSg6e8eL
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260130
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -501,18 +424,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jQ-3t-40jW8rKYUVMtYsE
+UID:LepWqkSHQ6P2zL2xA8IOf
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260202
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -530,18 +446,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:VbXtU8cDEN0h8jnDQtjsv
+UID:GcWxVsDuWNt9Rk8GxJdqF
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260203
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -559,12 +468,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WTO4r-aL8ZvMhn3Of8SUE
+UID:OCNFyfL6zVgQlCqr3eo7e
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260206
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -582,16 +490,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GqSjFiR5lQyxQvRIMLwbH
+UID:1JbGiFR68pz-uldgtmhXM
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260209
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -609,18 +512,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:imZJVk2aur6G6klZEx8j5
+UID:_QUmt9NABubjw5ZK7Pesw
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260209
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -638,18 +534,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:thQmEr0nlplNu3tn-ZdEy
+UID:1Mmil2LcFDujCsQe3-fw9
 SUMMARY:Odvoz: Papier
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260210
-DESCRIPTION:Papierový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\
-	, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, 
-	Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, G
-	ulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\
-	, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej 
-	hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\
-	, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová
-	\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Papierový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -667,13 +556,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:e62-M2p3r0emfD5RdRA21
+UID:plopfvVPYYQs0XYjfozqQ
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260210
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -691,12 +578,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6YP0BJJ1P9N4A4w78Rj-0
+UID:5PSIXWIiFk1QbulbmISyG
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260211
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -714,12 +600,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:F2VpIfz4OYvXVOoS8nELu
+UID:XACB3opbDacB_ZwRBrRgb
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -737,18 +622,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:R2JGAoLl-yxy5XeHpUMCa
+UID:DLTPR_XQR-O0xU-C6Cvfv
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260216
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -766,18 +644,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cvvtgTbKBbVkSRmj-Q8ml
+UID:oZAM80hs8OJuILpX_Xsis
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260217
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -795,12 +666,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:G5UpQ7hqG5KS6Udw8Vdph
+UID:-5__eyf7GqiKmLh5icf8x
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -818,16 +688,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_QPf-vhNQZa4YgfUcgmqb
+UID:w66OrXJwm7EqUkDYg3ozX
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260223
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -845,18 +710,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:djSqjUpo0GDLidn5uI9EE
+UID:0ymlNx6OvZ1UVqbTAavp3
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260223
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -874,19 +732,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yTJZ1CiMYa77W0Z0SxQrX
+UID:KAxxLI0SipQzCvlZCh7-Q
 SUMMARY:Odvoz: Kov
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260224
 DESCRIPTION:Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlt
-	é vrecia\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatí
-	nska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Čičkániková\, Do M
-	edžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gulejová\, Hnedá\, 
-	Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\, Ku zvonici\, Let
-	ná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej hrádzke\, Námestie
-	 hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovenský dobrov
-	oľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\, Záhradná\, Zámo
-	cká\, Závoz\, Zelená\, Železničná\, Žltá
+	é vrecia
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -904,13 +755,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m0-0aLEBWtL2PDShNX7Ln
+UID:WGSwn_cjVqNykOUi80qd3
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260224
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -928,12 +777,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LHSlnvKprno_zKhA9kK8K
+UID:24HIPSpLnxO2RJ1ABzEaL
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -951,12 +799,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jVF2iv5PjUX9qCWuHJZqD
+UID:P0R_OUk-z62VpRywzcoqH
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -974,18 +821,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0thpeCidxkbBYg2vH8Y-Y
+UID:Cax4CNhgdYdOLVwGdu-L3
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260302
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1003,18 +843,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RxVoTRs1vUSJYag5ISYtc
+UID:2We47aQjhAoIBI8nS-901
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260303
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1032,12 +865,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1rb836jvwnAUjztH7Ce46
+UID:VGu1Fg-lrRtbJTrV7jURK
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1055,16 +887,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ILOXq1xZKoTNE94wsIVfu
+UID:hFL9c8nyK2d9GEgHA4TNE
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260309
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1082,18 +909,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dhlYEet8mhcPZ-M81jISH
+UID:weyJVXvrLTLGMVOY2qV4h
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260309
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1111,18 +931,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZLEr1NWUqrsHz9EHq2E1q
+UID:BZLMHnieKT5a7oBKm72S8
 SUMMARY:Odvoz: Papier
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260310
-DESCRIPTION:Papierový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\
-	, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, 
-	Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, G
-	ulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\
-	, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej 
-	hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\
-	, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová
-	\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Papierový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1140,13 +953,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hfliGx0CJ779eFe6Lp_vV
+UID:cPnBhXCnKRMD67ZLweRZq
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260310
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1164,12 +975,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PZXaylPXKYv4GpvLyesO5
+UID:txXcLo8gTuCUW7IP60e78
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260311
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1187,12 +997,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qTknaTdlAAdCvImqKI_VV
+UID:ni_0fvoGeNapybdJ47A5K
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1210,18 +1019,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6CSXN56esv2X1wRFhnwHR
+UID:19Cz0-sSJ0g-vGVvKDYXX
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260316
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1239,18 +1041,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PGMWrNle8rY6NY5MZDd52
+UID:Ut-5iDXUExNNZIF267QLT
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260317
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1268,12 +1063,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GBXhoYRxqKc8QCBHgDwin
+UID:uKXbn9syKI2S7I1SyRrFj
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1291,16 +1085,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-03ypVTN6zu8D8UVsw7pe
+UID:sA0CuBSr3G2EbxR59_QGa
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260323
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1318,18 +1107,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Gz1jYpIvRHqiZWHUjps0b
+UID:Q1Mhu6iYYDBUgX2XyTRBP
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260323
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1347,19 +1129,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3PlNN-fvWViTqfK6lxL-Q
+UID:FxtwbBUqFepXlzd2TE5aO
 SUMMARY:Odvoz: Kov
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260324
 DESCRIPTION:Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlt
-	é vrecia\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatí
-	nska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Čičkániková\, Do M
-	edžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gulejová\, Hnedá\, 
-	Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\, Ku zvonici\, Let
-	ná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej hrádzke\, Námestie
-	 hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovenský dobrov
-	oľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\, Záhradná\, Zámo
-	cká\, Závoz\, Zelená\, Železničná\, Žltá
+	é vrecia
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1377,13 +1152,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zq0UXPFDkeJlLe3ZAj9hP
+UID:OTqNG1qkUpAWYfdOrqKzs
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260324
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1401,12 +1174,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SEXxyT1pIQvkYZedBXbUT
+UID:OG-lIQACEEwVC66If0nN-
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260325
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1424,12 +1196,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Brk_-RlVs7A4vnqg4uNHu
+UID:uGvGo7GFyIhTqOwfKYx1d
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260327
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1447,18 +1218,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zJPsl-m03EhVKeg1hDB-_
+UID:XKbysb1NsOCAC8vkQMOt8
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260330
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1476,20 +1240,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xik7YvOrMU_FKmqvwNtKe
+UID:TGgoml42_D9o1cHNkIygU
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1507,12 +1263,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wY8pgqn0ERhjbCozGHsYj
+UID:Dw8Hvu0LHTybyfLP1hZtS
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1530,18 +1285,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sdmzAXHMfPayIMOdpR1nG
+UID:xZqaMuiHssky4XuNi8MH3
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260407
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1559,16 +1307,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3HLJPElEzmXT-8NenF-sj
+UID:nqNN9oCIszwM5WeKuHNBp
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260407
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1586,18 +1329,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:srLnR8tjlTorqBFsvQFCb
+UID:ek6vyaSMWlmTNXbklKWJ9
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260407
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1615,13 +1351,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xkIOYucuPcRs2hzSTBjYo
+UID:TRF6Yz2I5PJrGDaAskAMl
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260408
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1639,12 +1373,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Q7kVrIji993Q0Y2Sq1tND
+UID:rSStH4Cxke6CQOOHVDx2N
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260409
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1662,12 +1395,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ac7DrLOFsl-nUjI7v3ZM9
+UID:Ymbel-YM0bbt3JvELR-V8
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1685,18 +1417,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zFfWGcCxKTZB3nj5K3d-7
+UID:mY-jbd2ZuYTX-eVxbZvk0
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260413
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1714,18 +1439,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a6vJZ6Im4jmSyjPEEtmls
+UID:SzcQNy2kDs3_otxofx5Nk
 SUMMARY:Odvoz: Papier
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260414
-DESCRIPTION:Papierový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\
-	, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, 
-	Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, G
-	ulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\
-	, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej 
-	hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\
-	, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová
-	\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Papierový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1743,20 +1461,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vHdqn_Zg05xUTufKW-uB3
+UID:KjFaDEpDukX8_Yhm4rlCO
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260415
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1774,12 +1484,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tnZypXJhqRars_yEF5qwL
+UID:R3ADg0sGvAuW0nuEug2Ad
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1797,18 +1506,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rvzXRIHQsWgZrDF5wStDC
+UID:q1HIgnatVBs7KgVeZuF-p
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260420
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1826,16 +1528,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:002-bKH-Z67xwOD_2yjbx
+UID:TX0iulVgym1Bjd4IGB_6Y
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260420
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1853,18 +1550,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:v3o4QUE91xhq6lziIRDDI
+UID:mSSsC-FDM-C5rBbNOxdhN
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260420
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1882,13 +1572,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Aa5kxv1QoKfNgQ-srVzKy
+UID:qP6J2l6gxSZfMdFXWG91u
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260421
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1906,12 +1594,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_Vhthe-y786vQiVPOo7DR
+UID:2lYB98BPs74Kdxykro4g0
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260422
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1929,12 +1616,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:w72eQdYvsKGWF4xUv-o1b
+UID:fQaO7WayR0_rrrapOBP60
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260424
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1952,18 +1638,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:efa6HTYXxmpVkg1ZsL0Dx
+UID:5fCXr1ronz0eV06aJTAMt
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260427
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -1981,19 +1660,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JYHZEJFyKrY2gR3BXnubM
+UID:BuhOBrACOvK7WBHgt4u1G
 SUMMARY:Odvoz: Kov
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260428
 DESCRIPTION:Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlt
-	é vrecia\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatí
-	nska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Čičkániková\, Do M
-	edžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gulejová\, Hnedá\, 
-	Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\, Ku zvonici\, Let
-	ná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej hrádzke\, Námestie
-	 hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovenský dobrov
-	oľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\, Záhradná\, Zámo
-	cká\, Závoz\, Zelená\, Železničná\, Žltá
+	é vrecia
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2011,20 +1683,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-Gh9eauM4JyKi787k_eh-
+UID:kTRnD1eQy7madt0rMXzBs
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260429
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2042,12 +1706,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-iKWq18Vmk9YSc9mQsUcM
+UID:f9YWWPx_ZuE3ohIAAMPC-
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260501
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2065,18 +1728,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8QYHXSisGZdYZt4jYSv9G
+UID:mxz2r02QSu--YrW9_Y4Bu
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260504
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2094,16 +1750,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fUbmVfwKGKEIUMz1A-3Wg
+UID:xGrspKUgq9Fy29jR7AikZ
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260504
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2121,18 +1772,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fHq90plSwTDmVd7yO_8LK
+UID:rOnLCm54-GxNWOvQn6dax
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260504
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2150,13 +1794,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OJ97Jam0WFXago2npS5l3
+UID:wi2Eu7wZsk73N7Frx7qEY
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260505
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2174,12 +1816,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SEvFt0UpOSO769YHpa3Zg
+UID:Z5kTLw1LNq-4JfNnn1YoP
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260506
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2197,12 +1838,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:C1UBRONxmenB29uegrHs6
+UID:zuKFWdTuMeF13yP_KHjJk
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260508
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2220,18 +1860,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:R3u-62QbyZsoxPbBVbcjs
+UID:1WVrepUMOjRqj8qByeqFY
 SUMMARY:Odvoz: Papier
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260511
-DESCRIPTION:Papierový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\
-	, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, 
-	Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, G
-	ulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\
-	, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej 
-	hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\
-	, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová
-	\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Papierový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2249,18 +1882,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SnQxX4QubH3QQiYgrIjg5
+UID:rw666LNSsc1MddhZK8LrM
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260511
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2278,20 +1904,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uASZH8Lwz3ioUcjkyJT6a
+UID:1231wvNsOzZPx3v2lYKnt
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260513
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2309,12 +1927,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kQ8uWyBshPsjopYnejx2G
+UID:smD4Cwy_mgKmOgKCG5JC6
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2332,18 +1949,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tNz2LZ0DvwQpzfXtLNJhS
+UID:Oxf_-zTpihJbx9DLTNfD5
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260518
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2361,16 +1971,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b71kXBh6DTQrtkszJZE1S
+UID:J-e8o6SlWvsKhGWcgxxAE
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260518
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2388,18 +1993,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cWyzB-LmaBlM-gCL3XYsL
+UID:f9IGUdvfXLZgartbOsiGx
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260518
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2417,13 +2015,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3boA1UpIzXxmtHi2BCQ-6
+UID:SCFzs7OHgsnBnDP3lSetH
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260519
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2441,12 +2037,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rv6U94BuG9PaZGPRaZYlx
+UID:-cCcTUYAMUxXCdIDIY0qM
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260520
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2464,12 +2059,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-Ijs1TazuzACeC183VFTK
+UID:0SkRZ8KyCCmZDpRD0enmn
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260522
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2487,19 +2081,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RKPO10jRoZ_ThDZzz2PZ5
+UID:dL1IFRjpHfWTReitVPtKl
 SUMMARY:Odvoz: Kov
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260525
 DESCRIPTION:Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlt
-	é vrecia\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatí
-	nska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Čičkániková\, Do M
-	edžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gulejová\, Hnedá\, 
-	Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\, Ku zvonici\, Let
-	ná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej hrádzke\, Námestie
-	 hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovenský dobrov
-	oľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\, Záhradná\, Zámo
-	cká\, Závoz\, Zelená\, Železničná\, Žltá
+	é vrecia
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2517,18 +2104,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cAl1Mga03nSV8xo9aZ3bA
+UID:PXQZZqb3ONbk-jSqLZs1Y
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260525
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2546,20 +2126,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8iyIPMLO8u9UDZuL99HGp
+UID:GxWUUq2bnutU-7omfXQX1
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2577,12 +2149,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:z7-e_HXCLcu7qpfubtH6M
+UID:xulcKILnYF2T_5I0HbbFu
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260529
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2600,18 +2171,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Z5r8J0ZiEYuybCngCMbGo
+UID:gHGUcfXNOXi_7fSCDLYNX
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260601
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2629,16 +2193,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DaK4mQGEbqfJ8il68-bkQ
+UID:pmYEwmZE9RrZTlmBEbJpA
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260601
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2656,18 +2215,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BPxgod_x_JnZW1_uYATBK
+UID:y064grjVCQP5VBiBkXwJ7
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260601
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2685,13 +2237,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sJVJWX8TGs_AAQB0pBl4i
+UID:QETpBtiTmTT1qIUyaMMD1
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260602
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2709,12 +2259,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eHiRVFR4aNh4SnoMa17If
+UID:SHXljfOn0Lu8lQ-puyjv8
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260603
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2732,12 +2281,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Cl0sH2a4g8d8tFlPZCJz8
+UID:URGKiQ36G1kSX_stRmt4u
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260605
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2755,18 +2303,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GtegLglQNoQeLs1PMVpuK
+UID:xU0kzWFWL3-gZcPmsnehK
 SUMMARY:Odvoz: Papier
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260608
-DESCRIPTION:Papierový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\
-	, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, 
-	Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, G
-	ulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\
-	, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej 
-	hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\
-	, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová
-	\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Papierový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2784,18 +2325,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aRGo0U_twxGpT4l77Zrsg
+UID:MZbjG5RMd9pcJrvjHFziq
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260608
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2813,20 +2347,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:C59znvTf5ZYPZYtul5OHT
+UID:8gc_9jDp6C8ag6JsGTKWx
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260610
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2844,12 +2370,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rj5hMDp9UmlwAZTRVzySY
+UID:n4VQEojxJLLWWRw_soSHb
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260612
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2867,18 +2392,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BvnuGB-jWyNJ-Ze0H_B7y
+UID:Aq2-TW9AcWZwiK6bAxGS_
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260615
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2896,16 +2414,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Wk_LZ8p2xTAtAHCUDJsrn
+UID:D2otIQALD3UiQqNXE7Y1P
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260615
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2923,18 +2436,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9m8Y8ExV9Q786xs0KBkbK
+UID:8YehkCXCHHXS9CGt8Clbh
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260615
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2952,13 +2458,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CNwNk47TNzW_b6pQQFcWO
+UID:C-OWtucnnTBAUkRB6ukP9
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260616
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2976,12 +2480,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-6hd6UCAgs7rqiNtx49p1
+UID:ROu3cqDKd7PtP7GnFW8-b
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260617
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -2999,12 +2502,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CJ8qZRtlTcDo6zJ989SPv
+UID:awCebBFUEZY96RJowvd31
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3022,19 +2524,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ywR9TXJFTW63_xA5WKUBQ
+UID:jNp1wmgIHNCaO80ibD7cb
 SUMMARY:Odvoz: Kov
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260622
 DESCRIPTION:Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlt
-	é vrecia\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatí
-	nska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Čičkániková\, Do M
-	edžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gulejová\, Hnedá\, 
-	Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\, Ku zvonici\, Let
-	ná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej hrádzke\, Námestie
-	 hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovenský dobrov
-	oľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\, Záhradná\, Zámo
-	cká\, Závoz\, Zelená\, Železničná\, Žltá
+	é vrecia
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3052,18 +2547,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a5k2S05VhsTikphEpOFOs
+UID:hhd_6URs4Fk5A7CpGpNvG
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260622
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3081,20 +2569,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yh-H2UtQ-FJe6zDYTzSiR
+UID:VvCDNyIKgGL9HsSsG3OR5
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260624
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3112,12 +2592,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8GQc4TdeWv5ApVOOBS5g0
+UID:yDNLCKHYGUpsroT1S1oW2
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3135,16 +2614,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:T-jlafGm4DAStZclhapD6
+UID:9W6JPG7wOcS_bjD12vtr_
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260629
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3162,18 +2636,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PZNVISKgyiRyt3ai8Mwwo
+UID:dp1aPFPWJSexuO_08vnu3
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260629
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3191,13 +2658,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:P0rzvoucJ9g1lDR-I-Qpr
+UID:nOw3IeLqIeldrpaUpfJ-E
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260630
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3215,12 +2680,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ox3aZ5kMcNrChkeD7VRI9
+UID:xibvCxsfdUFlSHqiGK-75
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260701
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3238,12 +2702,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kPy49ND9IjvqeEWpHqwML
+UID:zM1EDazWgk1vK5SbvFaxX
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260703
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3261,18 +2724,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EcgyGLYAc1oflhjXUzdWN
+UID:RK4s8oCn1rQ8qO4XV_O7R
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260706
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3290,18 +2746,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:M4UGJN4welNRwiqjYDZ1l
+UID:_vO3y7tXoln7eMVVC_1dO
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260706
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3319,20 +2768,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AvfYrZOQZH0uL467X2JVs
+UID:X1sKdM6zDki2KIgZ4xykE
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260708
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3350,12 +2791,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ul_jk7ALF9KwxmUVqxYqN
+UID:Pk_VdYTYF4immoAr2Gm82
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3373,18 +2813,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9HogXcmCYw2CNaxI5caXU
+UID:xmCz6VA7ZRwY8g35lf8I3
 SUMMARY:Odvoz: Papier
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260713
-DESCRIPTION:Papierový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\
-	, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, 
-	Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, G
-	ulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\
-	, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej 
-	hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\
-	, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová
-	\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Papierový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3402,16 +2835,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HBY2Pf9N7fWSnP-lS6aVK
+UID:M4Y8swlwSOXdelNtey6f_
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260713
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3429,18 +2857,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DmQdaOk10df9nGIsPutXd
+UID:RovniX25t5nBEFu1eNzxJ
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260713
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3458,13 +2879,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SRu4Md6AbyAOlzbv4gX5e
+UID:eu5-e9i5WEogl5Os8FA83
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260714
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3482,12 +2901,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:p0M6F4HFiJ_nLDqqaQSQC
+UID:2IqlfCzG7XIMdEtImdd1B
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3505,12 +2923,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SWsU7N8GquRyoUUIh_BNV
+UID:NzCNFbPeGo5OWqD4e-0ZD
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260717
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3528,18 +2945,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ixLXulWiXMtc4X5jfiLPs
+UID:2C6FWGflIQXs6gZpHt-Iw
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260720
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3557,18 +2967,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b2PdaH2SSVxJFDDCYO1eN
+UID:y7QhIBSlyp5aSLpIrZD0n
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260720
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3586,20 +2989,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Z7IXhoV_iibHZbeNABoXR
+UID:lPSbM627U50P0_8L6qwXN
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3617,12 +3012,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zutBqNO6bmpa4nSYNPT1y
+UID:G8lWWEJWMVFJignLCDnLr
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260724
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3640,19 +3034,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c4MiFVYzbZF9g4YDbP9QM
+UID:fxv0ztQGqRuOROIIQfAnp
 SUMMARY:Odvoz: Kov
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260727
 DESCRIPTION:Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlt
-	é vrecia\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatí
-	nska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Čičkániková\, Do M
-	edžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gulejová\, Hnedá\, 
-	Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\, Ku zvonici\, Let
-	ná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej hrádzke\, Námestie
-	 hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovenský dobrov
-	oľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\, Záhradná\, Zámo
-	cká\, Závoz\, Zelená\, Železničná\, Žltá
+	é vrecia
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3670,16 +3057,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2Qv8bS5TG6hHat9sNUB6G
+UID:5WsDrVV8MyQvA6kHEP1t3
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260727
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3697,18 +3079,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BuTIQ6w9kW8IqUb4KObqg
+UID:WPSCRLKNtsOGImL6qT0v8
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260727
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3726,13 +3101,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:T1KCLb0CX08VDwK7YqphB
+UID:xsHE09L0aaXX35We5rfHC
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260728
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3750,12 +3123,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rElxfKwh7kDptezduFsJp
+UID:7bA8K7VPbZBdNIeJZsk0A
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260729
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3773,12 +3145,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5MsA33p8lnAG7FwdbNzw4
+UID:dxfR1HzdRIL3HHGFU0Q5G
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260731
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3796,18 +3167,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_vrknePp9qTp7_oOPSf8c
+UID:iR4gmWA67ToNyKcLowmWy
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260803
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3825,18 +3189,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:s1M6Qn70KqptZ5YmRnGs5
+UID:fDiX4ZjTLVr7NR9U3qJEA
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260803
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3854,20 +3211,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:27PD0f6QlG-jKMjx8atyn
+UID:zWWVW-WFBwp6qkDKy7ao2
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260805
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3885,12 +3234,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Uz2IxTAydop9nerJmW5pD
+UID:ICJkEXTwqEekTmcMJ9Pqf
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260807
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3908,18 +3256,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:i_Iw7Vgv3CFdYFKcDfnNr
+UID:scAk9sOvF_0YPmU4PfuGR
 SUMMARY:Odvoz: Papier
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260810
-DESCRIPTION:Papierový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\
-	, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, 
-	Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, G
-	ulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\
-	, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej 
-	hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\
-	, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová
-	\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Papierový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3937,16 +3278,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eC7SZhk5-RXi-kH_Kna77
+UID:zuquF27awKHgtFNLX0f3s
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260810
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3964,18 +3300,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eIw5KAmotPmww4iy9_VSC
+UID:rMjBojHDiQ6dKj3HbtiCX
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260810
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -3993,13 +3322,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:X-8zIXBDj_bUNwCsCWunl
+UID:nDDoZ0vyGOZ-A1oy7AqY-
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260811
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4017,12 +3344,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OMPdMgJGsNhRq_SpkUK0T
+UID:nvLrywOhnL25qdN3XqYTS
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260812
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4040,12 +3366,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YqaeAt450sb5w0XTNLB7z
+UID:PDs3Mw6qZJ0DObMlz8GUz
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260814
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4063,18 +3388,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZJPuyNnJkmOcA57GLTy_U
+UID:_FeRIYCRLoikJowSnn9IU
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260817
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4092,18 +3410,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MpExxdD80VKo3gL7BdNzh
+UID:eyZRS7j_4kcYB0D5T-P-5
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260817
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4121,20 +3432,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JONRoFzdarp6dSGSEKbyQ
+UID:np1XdJJTs4pRvLLPyRJfH
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260819
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4152,12 +3455,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TmsvFITZKAasuAkvguM3p
+UID:Rho5o3-xqpnrx8QWZlymx
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260821
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4175,19 +3477,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nXgoW2eKXVg6p9JkF3EAJ
+UID:bi4DTUQA9zVIHANPEMz3M
 SUMMARY:Odvoz: Kov
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260824
 DESCRIPTION:Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlt
-	é vrecia\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatí
-	nska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Čičkániková\, Do M
-	edžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gulejová\, Hnedá\, 
-	Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\, Ku zvonici\, Let
-	ná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej hrádzke\, Námestie
-	 hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovenský dobrov
-	oľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\, Záhradná\, Zámo
-	cká\, Závoz\, Zelená\, Železničná\, Žltá
+	é vrecia
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4205,16 +3500,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Y8RORMrCArgFaRMcKJe8-
+UID:WJKct5ILjy8QZNqPPRheV
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260824
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4232,18 +3522,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XURO7o-EtXPalyXYGGzPs
+UID:01A4_Lq7xnCoCiz26pINS
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260824
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4261,13 +3544,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eXYArPohtxZEBngFS1UWo
+UID:WPLoA57f41ZxZyjs9fmuC
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260825
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4285,12 +3566,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bcmJc5iUBPjc8CQCCH8uE
+UID:dOjQEPB4n1y55ROaA0ZE8
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260826
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4308,12 +3588,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tz6-FGhgXt30oMSiyandz
+UID:IIzlIFUazKbWKKcvFwwn6
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260828
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4331,18 +3610,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:iei6L9WAH4A9K9WV9U7Cq
+UID:2_Ssvobx7IGJ5153Sinnq
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260831
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4360,20 +3632,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Etml0V8k8M8E0bTU5KEPf
+UID:pGkkwQxrDEcZR68Vc-mco
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4391,12 +3655,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aUDpe-Y8_DOfdxVtcgfhz
+UID:kCWOwt_5bHjU6KKlYbaP7
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260904
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4414,18 +3677,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-C5uCO30vP7pe-JIiaHme
+UID:g3ra58lV1iy6_ZS3Y0Rk4
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260907
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4443,16 +3699,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1BaBi_xC6k55tWFslAKaS
+UID:2YTwIcXifqXO0A3lMwqra
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260907
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4470,18 +3721,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nkEEZ0XtOEsLDLEoBdG9X
+UID:HueImVdU_IIlfS65imeS8
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260907
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4499,13 +3743,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7ytkerkWJaXWio9Phtv7J
+UID:umhsedGBJBRa9clKxUYnJ
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260908
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4523,12 +3765,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2OlBovqCcMVmBquz241-W
+UID:19Pm50cAOvUJ4Ue6q1cPo
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260909
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4546,12 +3787,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eD_qfPdX2JVI8q7BR1P6q
+UID:MwUesw9qTLk3MtI35Lkrk
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260911
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4569,18 +3809,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-dZzHd4R3GNlpyDOVSKz0
+UID:0dnENAfOlhqtbx6G5JDAa
 SUMMARY:Odvoz: Papier
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260914
-DESCRIPTION:Papierový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\
-	, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, 
-	Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, G
-	ulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\
-	, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej 
-	hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\
-	, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová
-	\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Papierový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4598,18 +3831,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:O9hyWwRnBXqiLQ0tI_g9n
+UID:HY0axY5qAZD2hJKBnSQEB
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260914
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4627,20 +3853,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1Nc6U370MBmO_HiyEi1jG
+UID:ojgW4uI76QAmXfxJHuHVf
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260916
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4658,12 +3876,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ONTtrkoYjK7A_VN6VL-67
+UID:GENoMhKVA3LiaUfTBISdx
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4681,18 +3898,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Dg_AH28pD2-A0sO581IyL
+UID:vRoruJBEBBREpuykq1wyo
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260921
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4710,16 +3920,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SjoG77rtaOeim2GdX7uEv
+UID:NqCoO5n8wt181vKwHeokQ
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260921
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4737,18 +3942,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jCMuRPers1EZ-Ds3DcohQ
+UID:MXlS61Vpzn6zkcfYwfQkG
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260921
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4766,13 +3964,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:H6dPCkQIUpp4nQJyIeEdt
+UID:WmFBamx8U0J2np3-DLTTz
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260922
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4790,12 +3986,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7j32dZ5gk0UcP_rdynSEa
+UID:ZjJFvwd0qn-DQwx757XIU
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4813,12 +4008,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aDf41ktIfYWWwo5ABpTch
+UID:sGVY0sc_2j6Ar8TropJQz
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4836,19 +4030,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uOecxadoZoEaQ6eN9Fzjv
+UID:I06fZPeLUokIvrb_i_j7f
 SUMMARY:Odvoz: Kov
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260928
 DESCRIPTION:Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlt
-	é vrecia\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatí
-	nska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Čičkániková\, Do M
-	edžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gulejová\, Hnedá\, 
-	Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\, Ku zvonici\, Let
-	ná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej hrádzke\, Námestie
-	 hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovenský dobrov
-	oľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\, Záhradná\, Zámo
-	cká\, Závoz\, Zelená\, Železničná\, Žltá
+	é vrecia
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4866,18 +4053,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dHpyyybqj4iSwq3ywprxu
+UID:3bfwhlPKtMM4QtXX4u2fh
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260928
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4895,20 +4075,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LAWXMx7XhMaecbbex_f6A
+UID:LiyaPic1cs9E161c_2OQ2
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4926,12 +4098,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RtZoh_QyjFP2LqPiTDhC3
+UID:RUBXiZZM9qtgxnxTsshPZ
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4949,18 +4120,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OM7U3xdPcUrsKX8OWYqzT
+UID:9Bc4lx8prTkkM8WZe4L6D
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261005
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -4978,16 +4142,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:99BgLrnjNs5J5HphJsA4D
+UID:nPeQSLLUZRd8FpriVS7bX
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261005
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5005,18 +4164,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zb3vf8Hy_fW2tgkjQP8b-
+UID:18uJcvmrRVIbs7LECUt7I
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261005
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5034,13 +4186,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9-c7JEghlAT4TqUUwcuuv
+UID:dz2ZNlwSU8cAWtxB_rHY4
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261006
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5058,12 +4208,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9DBPIfyamF2th2Q0JTtE_
+UID:iOnUmV9aYzxeb2dyxwo8t
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261007
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5081,12 +4230,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Xf9nAo-kbYJY9WwwbGmmU
+UID:V_dis9lL4quShcILY8PZZ
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261009
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5104,18 +4252,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:K16TRd8eN6Pt7TATFonNX
+UID:G_HwRwYlQ2-3lQ0ohxgYV
 SUMMARY:Odvoz: Papier
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261012
-DESCRIPTION:Papierový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\
-	, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, 
-	Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, G
-	ulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\
-	, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej 
-	hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\
-	, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová
-	\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Papierový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5133,18 +4274,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KosPBnWbmUC6KNUHt72j2
+UID:BTR5-6D57La3YqfL2c02T
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261012
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5162,20 +4296,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-V-Us2LfekytUk_zw4P5
+UID:rKIKAI_4ZHICT10QTHEGF
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261014
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5193,12 +4319,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tYSZgvWG2Ow8-s-4LRUSn
+UID:G5uAFlOJiXBrGnCWIpEqc
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5216,18 +4341,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:iTyRaX1FcGH8bFdYnZBMC
+UID:NUpF1njbYMQl1-EGnfe4N
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261019
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5245,16 +4363,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7uzndc7BSPFVXeiepZLdI
+UID:z2XOehxpWaySieH9gmefe
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261019
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5272,18 +4385,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YoWWbmWaJgQrp0zSKb8Sh
+UID:FPlkLCMS1WjAP0LGrN6Pk
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261019
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5301,13 +4407,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m0Z6kIlJgKGATGDwRCc9c
+UID:UY2B8-SICZ21yhimH279L
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261020
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5325,12 +4429,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Stco6yMc3nCHBMu2DQJE5
+UID:nzHpbMN6S5IGiaJjq6zo8
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261021
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5348,12 +4451,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1O51m1vxRHHns76LRrFbE
+UID:tLE-BCO2eGVgNdaV83Y7U
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5371,19 +4473,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_snBWVucaV42FdOcXDl2z
+UID:XuiRkLats2_UdcD33nfHh
 SUMMARY:Odvoz: Kov
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261026
 DESCRIPTION:Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlt
-	é vrecia\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatí
-	nska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Čičkániková\, Do M
-	edžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gulejová\, Hnedá\, 
-	Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\, Ku zvonici\, Let
-	ná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej hrádzke\, Námestie
-	 hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovenský dobrov
-	oľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\, Záhradná\, Zámo
-	cká\, Závoz\, Zelená\, Železničná\, Žltá
+	é vrecia
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5401,18 +4496,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CCpwOtaqiPrpHFyz77Q9q
+UID:5VsuGGe1q9L9wLsF39kEy
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261026
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5430,20 +4518,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4WX0gGpP2pVlA3-ZzsOsB
+UID:uLUXHeXZJ5WyWbIm5Q1zz
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5461,12 +4541,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6m3BuqoIgCfBCy97YdeHy
+UID:PBfkTJm2YJggc7QGVICMP
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261030
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5484,18 +4563,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-wLgxK0mpBXdUA1-_ZEmV
+UID:mib-HLG8wnaGh9MjLtq_r
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261102
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5513,16 +4585,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tv2Mkwk7mGevYMLAUVRI-
+UID:lRFILf2Kp2WLRMojzgOfS
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261102
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5540,18 +4607,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lf39m8CJnKZsKwEHIHvln
+UID:OveKHGERk16d2AkKGff3r
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261102
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5569,13 +4629,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:viQf3s2Sum4UHITuVLLtv
+UID:uhGpMG_GibkcBqV73cldU
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261103
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5593,12 +4651,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lYFyBWtRCtFflAQrSnqmI
+UID:h2Gv5Tqs14_AZBxzkAJCx
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261104
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5616,12 +4673,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5yJ9zmyZTsVHjBdIQfZbw
+UID:baa5N9IOGxQFHWXZYlHBV
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5639,18 +4695,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:X16MCxXmPjCghOyRuiGQv
+UID:ZZDMSrs8QT8nPdQMQ4Dko
 SUMMARY:Odvoz: Papier
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261109
-DESCRIPTION:Papierový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\
-	, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, 
-	Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, G
-	ulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\
-	, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej 
-	hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\
-	, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová
-	\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Papierový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5668,18 +4717,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:r93TAB2y5J57N9y9y0Tm4
+UID:v_nDAMad6Zcov-F6GZ-wc
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261109
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5697,20 +4739,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RNOFXD4FTWonGRuGb2mdG
+UID:D4MyKZLZtxjp55QRIzhd6
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261111
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5728,12 +4762,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NIM7z062Gwqv0FTG0hv9K
+UID:PsaKI5eUSbjtDT3J-QS-d
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5751,18 +4784,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Z6sk2brA91g8s7tNq-xYl
+UID:sOWhbuE7xnVh9OWxshZgf
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261116
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5780,16 +4806,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-iTwOaC6Bk7_3mPRDMZ20
+UID:3bdI2sz-7EO2muwLwbB9i
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261116
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5807,18 +4828,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Vx-y3BsLOqoZaVxviFoMg
+UID:TOwoywLxws1BtO1wdk-cW
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261116
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5836,13 +4850,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0VE8zEDwtvp856wcNu-Nk
+UID:HFll7E3MORBcGqga38flF
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261117
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5860,12 +4872,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:acKTQJmH0AwDsTLFRs6Mn
+UID:UNiGoTHwqczGtxS41o0iX
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261118
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5883,12 +4894,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LsmpkDV1b0G1aLBJfMADu
+UID:PvVK-ncNHRNZ12H8iKt4O
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261120
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5906,19 +4916,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EBGXy4R8hHUKBu3z2Dcsl
+UID:A4Lei-iRiZG0vktykDbNS
 SUMMARY:Odvoz: Kov
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261123
 DESCRIPTION:Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlt
-	é vrecia\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatí
-	nska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Čičkániková\, Do M
-	edžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gulejová\, Hnedá\, 
-	Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\, Ku zvonici\, Let
-	ná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej hrádzke\, Námestie
-	 hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovenský dobrov
-	oľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\, Záhradná\, Zámo
-	cká\, Závoz\, Zelená\, Železničná\, Žltá
+	é vrecia
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5936,18 +4939,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4lWHY5DiLJR9prL1tbB2N
+UID:K_Q2eBIVoi7CRcQg0TXAp
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261123
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5965,20 +4961,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_OQyThQosHseyIn8xdcvR
+UID:Z5egdxZJu6yRKmChVGOUx
 SUMMARY:Odvoz: Záhrada
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261125
 DESCRIPTION:Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. 
-	Poznámka: služba je samostatne spoplatnená!\n\nUlice: Azúrová\, Béžová\, B
-	iela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhu
-	mnie\, Červená\, Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energeti
-	kov\, Fialová\, Gulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmíno
-	vá\, Krištenovej\, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na 
-	lány\, Na starej hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\
-	, Sivá\, Slnečná\, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Top
-	oľová\, Tyrkysová\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žlt
-	á
+	Poznámka: služba je samostatne spoplatnená!
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -5996,12 +4984,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:N3BnvlP4cD2su5jBz0n0H
+UID:H_PXjii6pooEdtGIppjDS
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261127
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6019,16 +5006,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kVy5CoyJHkHfcdDn-WvMo
+UID:ncDc9WEIRsS3yp-7NBhNY
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261130
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6046,18 +5028,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:h-CBj_WVD_Rs0VtUA3O77
+UID:Hr_q9Ee9RhsYjnaPWfm91
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261130
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6075,13 +5050,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AL8tkuQIoXRDeZdsPjwvS
+UID:R1BtGpG4qPIZ1yH6N2BGa
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261201
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6099,12 +5072,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dCZmUt8KvwIixHOqYVECT
+UID:5LrEdLKx_awZhNzohcl1M
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261202
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6122,12 +5094,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fgBJmwHti5z8qmcC3yjEy
+UID:BTXjzpGqhm6VC7IluTXdZ
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261204
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6145,18 +5116,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HRbB4EEF1o6R7CqVrPk7_
+UID:EJxcMsyRUbC-gdun523Tg
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261207
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6174,18 +5138,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aR33Ai0sqSQGUQihrOQCz
+UID:GHlGb3C6IwqSDqjcLN-lK
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261207
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6203,12 +5160,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:liNroVWkXwodJONkACuKT
+UID:w7JYsGmjsrSm3n3teEoyy
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261211
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6226,18 +5182,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TEU3BU879LTLMim6QrYzf
+UID:OZA5LNrr2kZt3adCoM623
 SUMMARY:Odvoz: Papier
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261214
-DESCRIPTION:Papierový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\
-	, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, 
-	Čičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, G
-	ulejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\
-	, Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej 
-	hrádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\
-	, Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová
-	\, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Papierový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6255,16 +5204,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:J03hFuqp-QfI-IXPf10_L
+UID:vpsqEmVXaXkLgdsj2iyRq
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261214
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6282,18 +5226,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HRK3zxALARls3dC9DAg6b
+UID:H6eoiAl1cNyhZ42aepoIF
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261214
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6311,13 +5248,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0UDqdleM3RF10-H-qgizt
+UID:VuBQTRX2u9Z0k4oueiYxL
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261215
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6335,12 +5270,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:g5gGGNcJUZm3842J2QSuK
+UID:noY4waffEOVkLogQm6QVJ
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261216
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6358,12 +5292,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dW5EYFZg5hl80uylX6aj9
+UID:CfD1waWg0XtMnlYfMCm_U
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261218
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6381,18 +5314,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Oj3mU_xnz98bvRraj2kfp
+UID:SRTbzVJqXXzSveA3nfzX6
 SUMMARY:Odvoz: Plast
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261221
-DESCRIPTION:Plastový odpad\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\,
-	 Bordová\, Budatínska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Č
-	ičkániková\, Do Medžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gu
-	lejová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\,
-	 Ku zvonici\, Letná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej h
-	rádzke\, Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\,
-	 Slovenský dobrovoľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\
-	, Záhradná\, Zámocká\, Závoz\, Zelená\, Železničná\, Žltá
+DESCRIPTION:Plastový odpad
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6410,18 +5336,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rplHftI4pjdVDuHvH_Ao1
+UID:Ktg-pK9LjkClYW3Ax5seP
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261221
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6439,12 +5358,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eTTmYRKLde2jgGlE5g9qv
+UID:5xRpb6u1s5jRfaGYJieAP
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261226
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Krištenovej\, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6462,19 +5380,12 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WAee1m9r05Jd7xzCfO84o
+UID:4CdaDHRLDapjbHIPlcP-B
 SUMMARY:Odvoz: Kov
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261228
 DESCRIPTION:Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlt
-	é vrecia\n\nUlice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatí
-	nska\, Cesta k vodojemu\, Cesta na záhumnie\, Červená\, Čičkániková\, Do M
-	edžilúžia\, Do parku\, Dolná\, Energetikov\, Fialová\, Gulejová\, Hnedá\, 
-	Hore vŕškom\, Horná\, K múzeu\, Karmínová\, Krištenovej\, Ku zvonici\, Let
-	ná\, Lúčna\, Martinčeková\, Modrá\, Na lány\, Na starej hrádzke\, Námestie
-	 hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovenský dobrov
-	oľníkov\, Strieborná\, Sugoňovská\, Topoľová\, Tyrkysová\, Záhradná\, Zámo
-	cká\, Závoz\, Zelená\, Železničná\, Žltá
+	é vrecia
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6492,16 +5403,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aiBX-IJP47b0cmWBF882F
+UID:oAwKhm9xysabCtQF3LmqM
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261228
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Azúrová\, Bé
-	žová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta k vodojemu\, Cesta
-	 na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Fialová\, Hnedá\, Hore
-	 vŕškom\, Horná\, K múzeu\, Karmínová\, Ku zvonici\, Lúčna\, Modrá\, Na lá
-	ny\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Strieborná\, Topoľová\
-	, Tyrkysová\, Záhradná\, Zámocká\, Zelená\, Žltá
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6519,18 +5425,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NHxIFxGOvJ4dhT1jN6Qpp
+UID:GK7v7bh20ZISGT7Iw55hI
 SUMMARY:Odvoz: Bio
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261228
-DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba\n\n
-	Ulice: Azúrová\, Béžová\, Biela\, Blankytná\, Bordová\, Budatínska\, Cesta
-	 k vodojemu\, Cesta na záhumnie\, Červená\, Do Medžilúžia\, Do parku\, Dol
-	ná\, Energetikov\, Fialová\, Hnedá\, Hore vŕškom\, Horná\, K múzeu\, Karmí
-	nová\, Ku zvonici\, Letná\, Lúčna\, Modrá\, Na lány\, Na starej hrádzke\, 
-	Námestie hrdinov\, Okrová\, Purpurová\, Radová\, Sivá\, Slnečná\, Slovensk
-	ý dobrovoľníkov\, Strieborná\, Topoľová\, Tyrkysová\, Závoz\, Zámocká\, Ze
-	lená\, Železničná\, Žltá
+DESCRIPTION:Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6548,13 +5447,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GXjixIvGCDEiwmTu87MFM
+UID:NXBca9W4ycZ6F1XMDzltV
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261229
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Dolná\, Ener
-	getikov\, Letná\, Na starej hrádzke\, Námestie hrdinov\, Slovenský dobrovo
-	ľníkov\, Závoz\, Železničná
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED
@@ -6572,12 +5469,11 @@ TRIGGER:-PT42H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lqUW7YYfOFurGkV-wm4Ks
+UID:CGD7uInsc1jz6t_k4gR3D
 SUMMARY:Odvoz: Komunálny
-DTSTAMP:20260112T165921Z
+DTSTAMP:20260112T171904Z
 DTSTART;VALUE=DATE:20261230
-DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba\n\nUlice: Krištenovej\
-	, Martinčeková\, Sugoňovská\, Čičkániková\, Gulejová
+DESCRIPTION:Zmiešaný komunálny odpad / čierna nádoba
 URL:https://niesmetibudatin.sk
 LOCATION:Budatín\, Žilina
 STATUS:CONFIRMED

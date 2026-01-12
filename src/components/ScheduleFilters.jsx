@@ -5,19 +5,12 @@ import { exportStreetCalendar, exportAllCalendar } from '../utils/calendarExport
 const ScheduleFilters = ({ selectedStreet, onStreetChange, allEvents, onPrintClick }) => {
   const streets = getAllStreets();
 
-  const handleExport = () => {
+  const handleExportICS = () => {
     if (selectedStreet) {
       exportStreetCalendar(allEvents, selectedStreet);
     } else {
       exportAllCalendar(allEvents);
     }
-  };
-
-  // Získame aktuálny hostname a port pre webcal URL
-  const getWebcalUrl = () => {
-    const protocol = window.location.protocol === 'https:' ? 'webcal:' : 'webcal:';
-    const host = window.location.host;
-    return `${protocol}//${host}/calendar.ics`;
   };
 
   return (
@@ -39,27 +32,20 @@ const ScheduleFilters = ({ selectedStreet, onStreetChange, allEvents, onPrintCli
       </div>
 
       <div className="export-buttons">
-        <a
-          href={getWebcalUrl()}
+        <button
           className="btn btn-primary"
-          style={{ textDecoration: 'none', display: 'inline-block' }}
+          onClick={handleExportICS}
         >
           📅 Pridať do iOS kalendára
-        </a>
-        <a
-          href="/calendar.ics"
-          download="odvoz-odpadu-budatin-2026.ics"
-          className="btn btn-secondary"
-          style={{ textDecoration: 'none', display: 'inline-block', marginLeft: '10px' }}
-        >
-          📥 Export do ics
-        </a>
+          {selectedStreet && ` (${selectedStreet})`}
+        </button>
         <button
           className="btn btn-secondary"
-          onClick={handleExport}
+          onClick={handleExportICS}
           style={{ marginLeft: '10px' }}
         >
-          💾 Stiahnuť kalendár (filter)
+          📥 Export do ics
+          {selectedStreet && ` (${selectedStreet})`}
         </button>
         <button
           className="btn btn-secondary"

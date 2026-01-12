@@ -19,7 +19,8 @@ export const exportToICS = (events, street = null) => {
     }
 
     let description = event.wasteInfo.description;
-    if (event.districts.length < 50) {
+    // Pridáme zoznam ulíc len ak je vybratá konkrétna ulica alebo je menej ako 50 ulíc
+    if (street && event.districts.length < 50) {
       description += `\n\nUlice: ${event.districts.join(', ')}`;
     }
 
@@ -27,7 +28,7 @@ export const exportToICS = (events, street = null) => {
       start: [year, month, day],
       title,
       description,
-      location: `Budatín, Žilina${street ? `, ${street}` : ''}`,
+      location: street ? `${street}, Budatín, Žilina` : 'Budatín, Žilina',
       status: 'CONFIRMED',
       busyStatus: 'FREE',
       alarms: [

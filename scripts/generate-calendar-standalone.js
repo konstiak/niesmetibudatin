@@ -64,15 +64,13 @@ function exportToICS(events) {
 
     let title = `Odvoz: ${event.wasteInfo.name}`;
     let description = event.wasteInfo.description;
-    if (event.districts.length < 50) {
-      description += `\n\nUlice: ${event.districts.join(', ')}`;
-    }
+    // Pre všeobecný kalendár bez vybranej ulice neukazujeme zoznam ulíc
 
     return {
       start: [year, month, day],
       title,
       description,
-      location: `Budatín, Žilina`,
+      location: 'Budatín, Žilina',
       status: 'CONFIRMED',
       busyStatus: 'FREE',
       alarms: [
