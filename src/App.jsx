@@ -82,10 +82,10 @@ const App = () => {
 
             <div className="info-box" style={{ marginTop: '30px' }}>
               <h3>ℹ️ Dôležité informácie</h3>
-              <p><strong>ZKO</strong> - zmiešaný komunálny odpad / čierna nádoba</p>
-              <p><strong>BRKO</strong> - biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba</p>
+              <p><strong>Komunálny</strong> - zmiešaný komunálny odpad / čierna nádoba</p>
+              <p><strong>Bio</strong> - biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba</p>
               <p><strong>Záhrada</strong> - Zelený odpad zo záhrad typ zbernej nádoby: 240 l hnedá nádoba. <em>Poznámka: služba je samostatne spoplatnená!</em></p>
-              <p><strong>VKM + kov</strong> - nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlté vrecia</p>
+              <p><strong>Kov</strong> - nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlté vrecia</p>
             </div>
           </div>
 

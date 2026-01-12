@@ -95,15 +95,15 @@ const PrintableCalendar = ({ events, selectedStreet }) => {
         </div>
         <div className="legend-item">
           <div className="legend-color" style={{ backgroundColor: '#FF0000' }}></div>
-          <span>VKM+kov</span>
+          <span>Kov</span>
         </div>
         <div className="legend-item">
           <div className="legend-color" style={{ backgroundColor: '#808080' }}></div>
-          <span>ZKO</span>
+          <span>Komunálny</span>
         </div>
         <div className="legend-item">
           <div className="legend-color" style={{ backgroundColor: '#8B4513' }}></div>
-          <span>BRKO</span>
+          <span>Bio</span>
         </div>
         <div className="legend-item">
           <div className="legend-color" style={{ backgroundColor: '#00FF00' }}></div>

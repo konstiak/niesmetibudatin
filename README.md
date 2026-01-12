@@ -16,9 +16,9 @@ Moderná webová aplikácia pre zobrazenie harmonogramu zberu odpadu v mestskej 
 
 - **Plast** - Plastový odpad (žltá)
 - **Papier** - Papierový odpad (modrá)
-- **VKM + kov** - Nápojové kartóny a kovové obaly (červená)
-- **ZKO** - Zmiešaný komunálny odpad (šedá)
-- **BRKO** - Biologicky rozložiteľný kuchynský odpad (hnedá)
+- **Kov** - Nápojové kartóny a kovové obaly (červená)
+- **Komunálny** - Zmiešaný komunálny odpad (šedá)
+- **Bio** - Biologicky rozložiteľný kuchynský odpad (hnedá)
 - **Záhrada** - Zelený odpad zo záhrad (zelená)
 
 ## 🚀 Inštalácia a spustenie

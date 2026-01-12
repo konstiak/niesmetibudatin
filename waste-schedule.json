@@ -14,17 +14,17 @@
       "description": "Papierový odpad"
     },
     "vkm_kov": {
-      "name": "VKM + kov",
+      "name": "Kov",
       "color": "#FF0000",
       "description": "Nápojové kartóny (tetrapaky) a kovové obaly / žlté nádoby / žlté vrecia"
     },
     "zko": {
-      "name": "ZKO",
+      "name": "Komunálny",
       "color": "#808080",
       "description": "Zmiešaný komunálny odpad / čierna nádoba"
     },
     "brko": {
-      "name": "BRKO",
+      "name": "Bio",
       "color": "#8B4513",
       "description": "Biologicky rozložiteľný kuchynský odpad / 20 l hnedá nádoba"
     },
