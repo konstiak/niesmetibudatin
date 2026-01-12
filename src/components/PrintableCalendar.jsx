@@ -84,12 +84,6 @@ const PrintableCalendar = ({ events, selectedStreet }) => {
 
   return (
     <div className="printable-calendar">
-      <div className="print-header">
-        <h1>Harmonogram zberu odpadu 2026</h1>
-        <h2>Budatín, Žilina</h2>
-        {selectedStreet && <h3>Ulica: {selectedStreet}</h3>}
-      </div>
-
       <div className="print-legend">
         <div className="legend-item">
           <div className="legend-color" style={{ backgroundColor: '#FFD700' }}></div>
@@ -119,10 +113,6 @@ const PrintableCalendar = ({ events, selectedStreet }) => {
 
       <div className="print-months-grid">
         {Array.from({ length: 12 }, (_, i) => renderMonth(i + 1))}
-      </div>
-
-      <div className="print-footer">
-        <p>Dáta sú informatívneho charakteru</p>
       </div>
     </div>
   );
