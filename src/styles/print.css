@@ -40,7 +40,7 @@
   .printable-calendar {
     display: block !important;
     width: 100%;
-    padding: 0.5mm;
+    padding: 0mm;
   }
 
   /* Force print background colors */
@@ -69,7 +69,7 @@
   /* Page setup */
   @page {
     size: A4 portrait;
-    margin: 2mm;
+    margin: 1mm;
   }
 
   body {
@@ -87,7 +87,7 @@
     display: flex;
     justify-content: center;
     gap: 1px;
-    margin-bottom: 0.5mm;
+    margin-bottom: 0.3mm;
     page-break-after: avoid;
     flex-wrap: wrap;
   }
@@ -96,12 +96,12 @@
     display: flex;
     align-items: center;
     gap: 1px;
-    font-size: 4pt;
+    font-size: 3.5pt;
   }
 
   .print-legend .legend-color {
-    width: 5px;
-    height: 5px;
+    width: 4px;
+    height: 4px;
     border: 0.5px solid #000;
   }
 
@@ -109,22 +109,22 @@
   .print-months-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 1mm;
+    gap: 0.5mm;
     page-break-inside: avoid;
   }
 
   /* Individual month */
   .print-month {
     page-break-inside: avoid;
-    border: 0.5px solid #333;
-    padding: 0.3mm;
+    border: 0.3px solid #333;
+    padding: 0.2mm;
   }
 
   .print-month-name {
     text-align: center;
-    font-size: 5pt;
+    font-size: 4.5pt;
     font-weight: bold;
-    margin: 0 0 0.3mm 0;
+    margin: 0 0 0.2mm 0;
     color: #1a5f3c;
   }
 
@@ -132,16 +132,16 @@
   .print-calendar-grid {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-    gap: 0.1px;
+    gap: 0px;
   }
 
   .print-day-header {
     text-align: center;
     font-size: 3pt;
     font-weight: bold;
-    padding: 0.2px;
+    padding: 0px;
     background: #f0f0f0;
-    border: 0.5px solid #ddd;
+    border: 0.3px solid #ddd;
   }
 
   .print-day {
@@ -150,7 +150,7 @@
     align-items: center;
     justify-content: center;
     font-size: 3pt;
-    border: 0.5px solid #ddd;
+    border: 0.3px solid #ddd;
     position: relative;
   }
 
@@ -176,10 +176,7 @@
 
   /* Footer */
   .print-footer {
-    text-align: center;
-    margin-top: 0.3mm;
-    font-size: 3pt;
-    color: #666;
+    display: none !important;
   }
 
   .print-footer p {
