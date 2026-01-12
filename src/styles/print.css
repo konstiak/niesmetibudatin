@@ -28,56 +28,56 @@
 .show-print-preview .print-legend {
   display: flex;
   justify-content: center;
-  gap: 1px;
-  margin-bottom: 0.3mm;
+  gap: 3px;
+  margin-bottom: 1mm;
   flex-wrap: wrap;
 }
 
 .show-print-preview .print-legend .legend-item {
   display: flex;
   align-items: center;
-  gap: 1px;
-  font-size: 3.5pt;
+  gap: 2px;
+  font-size: 7pt;
 }
 
 .show-print-preview .print-legend .legend-color {
-  width: 4px;
-  height: 4px;
+  width: 8px;
+  height: 8px;
   border: 0.5px solid #000;
 }
 
 .show-print-preview .print-months-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 0.5mm;
+  gap: 1.5mm;
 }
 
 .show-print-preview .print-month {
-  border: 0.3px solid #333;
-  padding: 0.2mm;
+  border: 0.5px solid #333;
+  padding: 0.5mm;
 }
 
 .show-print-preview .print-month-name {
   text-align: center;
-  font-size: 4.5pt;
+  font-size: 8pt;
   font-weight: bold;
-  margin: 0 0 0.2mm 0;
+  margin: 0 0 0.5mm 0;
   color: #1a5f3c;
 }
 
 .show-print-preview .print-calendar-grid {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
-  gap: 0px;
+  gap: 0.2px;
 }
 
 .show-print-preview .print-day-header {
   text-align: center;
-  font-size: 3pt;
+  font-size: 5pt;
   font-weight: bold;
-  padding: 0px;
+  padding: 0.3px;
   background: #f0f0f0;
-  border: 0.3px solid #ddd;
+  border: 0.5px solid #ddd;
 }
 
 .show-print-preview .print-day {
@@ -85,8 +85,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 3pt;
-  border: 0.3px solid #ddd;
+  font-size: 6pt;
+  border: 0.5px solid #ddd;
   position: relative;
 }
 
@@ -107,7 +107,7 @@
 .show-print-preview .print-day span.has-event {
   color: #000;
   font-weight: bold;
-  text-shadow: 0 0 0.3px #fff, 0 0 0.3px #fff;
+  text-shadow: 0 0 0.5px #fff, 0 0 0.5px #fff;
 }
 
 @media print {
@@ -126,7 +126,7 @@
   .printable-calendar {
     display: block !important;
     width: 100%;
-    padding: 0mm;
+    padding: 1mm;
   }
 
   /* Force print background colors */
@@ -155,7 +155,7 @@
   /* Page setup */
   @page {
     size: A4 portrait;
-    margin: 1mm;
+    margin: 3mm;
   }
 
   body {
@@ -172,8 +172,8 @@
   .print-legend {
     display: flex;
     justify-content: center;
-    gap: 1px;
-    margin-bottom: 0.3mm;
+    gap: 3px;
+    margin-bottom: 1mm;
     page-break-after: avoid;
     flex-wrap: wrap;
   }
@@ -181,13 +181,13 @@
   .print-legend .legend-item {
     display: flex;
     align-items: center;
-    gap: 1px;
-    font-size: 3.5pt;
+    gap: 2px;
+    font-size: 7pt;
   }
 
   .print-legend .legend-color {
-    width: 4px;
-    height: 4px;
+    width: 8px;
+    height: 8px;
     border: 0.5px solid #000;
   }
 
@@ -195,22 +195,22 @@
   .print-months-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 0.5mm;
+    gap: 1.5mm;
     page-break-inside: avoid;
   }
 
   /* Individual month */
   .print-month {
     page-break-inside: avoid;
-    border: 0.3px solid #333;
-    padding: 0.2mm;
+    border: 0.5px solid #333;
+    padding: 0.5mm;
   }
 
   .print-month-name {
     text-align: center;
-    font-size: 4.5pt;
+    font-size: 8pt;
     font-weight: bold;
-    margin: 0 0 0.2mm 0;
+    margin: 0 0 0.5mm 0;
     color: #1a5f3c;
   }
 
@@ -218,16 +218,16 @@
   .print-calendar-grid {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-    gap: 0px;
+    gap: 0.2px;
   }
 
   .print-day-header {
     text-align: center;
-    font-size: 3pt;
+    font-size: 5pt;
     font-weight: bold;
-    padding: 0px;
+    padding: 0.3px;
     background: #f0f0f0;
-    border: 0.3px solid #ddd;
+    border: 0.5px solid #ddd;
   }
 
   .print-day {
@@ -235,8 +235,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 3pt;
-    border: 0.3px solid #ddd;
+    font-size: 6pt;
+    border: 0.5px solid #ddd;
     position: relative;
   }
 
@@ -257,7 +257,7 @@
   .print-day span.has-event {
     color: #000;
     font-weight: bold;
-    text-shadow: 0 0 0.3px #fff, 0 0 0.3px #fff;
+    text-shadow: 0 0 0.5px #fff, 0 0 0.5px #fff;
   }
 
   /* Footer */
