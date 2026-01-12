@@ -2,7 +2,7 @@ import React from 'react';
 import { getAllStreets } from '../utils/scheduleUtils';
 import { exportStreetCalendar, exportAllCalendar } from '../utils/calendarExport';
 
-const ScheduleFilters = ({ selectedStreet, onStreetChange, allEvents }) => {
+const ScheduleFilters = ({ selectedStreet, onStreetChange, allEvents, onPrintClick }) => {
   const streets = getAllStreets();
 
   const handleExport = () => {
@@ -37,7 +37,7 @@ const ScheduleFilters = ({ selectedStreet, onStreetChange, allEvents }) => {
         </button>
         <button
           className="btn btn-secondary"
-          onClick={() => window.print()}
+          onClick={onPrintClick}
         >
           🖨️ Vytlačiť harmonogram
         </button>

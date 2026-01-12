@@ -43,6 +43,7 @@ const App = () => {
               selectedStreet={selectedStreet}
               onStreetChange={setSelectedStreet}
               allEvents={allEvents}
+              onPrintClick={() => setViewMode('print')}
             />
 
             <WasteLegend />
@@ -99,9 +100,9 @@ const App = () => {
 
       {viewMode === 'print' && (
         <>
-          <div className="print-controls" style={{ background: '#f5f5f5', minHeight: '100vh', padding: '20px' }}>
-            <div className="container">
-              <div className="filters" style={{ background: 'white', padding: '20px', marginBottom: '20px', borderRadius: '8px' }}>
+          <div className="print-controls">
+            <div className="container" style={{ padding: '20px' }}>
+              <div className="filters" style={{ background: 'white', padding: '20px', marginBottom: '20px', borderRadius: '8px', boxShadow: '0 2px 5px rgba(0,0,0,0.1)' }}>
                 <button
                   className="btn btn-secondary"
                   onClick={() => setViewMode('list')}

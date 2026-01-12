@@ -4,6 +4,26 @@
   display: none;
 }
 
+/* Show calendar in print preview mode */
+.show-print-preview {
+  background: #f5f5f5;
+  min-height: 100vh;
+}
+
+.show-print-preview .printable-calendar {
+  display: block;
+  background: white;
+  padding: 20px;
+  max-width: 210mm;
+  margin: 20px auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.show-print-preview .print-controls {
+  background: #f5f5f5;
+  padding-top: 0;
+}
+
 @media print {
   /* Hide everything except printable calendar */
   header,
@@ -21,6 +41,13 @@
     display: block !important;
     width: 100%;
     padding: 10mm;
+  }
+
+  /* Force print background colors */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+    color-adjust: exact !important;
   }
 
   body {
@@ -180,16 +207,7 @@
   }
 }
 
-/* Screen view for print preview */
-.show-print-preview .printable-calendar {
-  display: block;
-  background: white;
-  padding: 20px;
-  max-width: 210mm;
-  margin: 20px auto;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-
+/* Screen view for print preview - specific element styles */
 .show-print-preview .print-header {
   text-align: center;
   margin-bottom: 20px;
