@@ -28,54 +28,54 @@
 .show-print-preview .print-legend {
   display: flex;
   justify-content: center;
-  gap: 3px;
-  margin-bottom: 1mm;
+  gap: 4px;
+  margin-bottom: 1.5mm;
   flex-wrap: wrap;
 }
 
 .show-print-preview .print-legend .legend-item {
   display: flex;
   align-items: center;
-  gap: 2px;
-  font-size: 7pt;
+  gap: 3px;
+  font-size: 8pt;
 }
 
 .show-print-preview .print-legend .legend-color {
-  width: 8px;
-  height: 8px;
+  width: 10px;
+  height: 10px;
   border: 0.5px solid #000;
 }
 
 .show-print-preview .print-months-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 1.5mm;
+  gap: 2mm;
 }
 
 .show-print-preview .print-month {
   border: 0.5px solid #333;
-  padding: 0.5mm;
+  padding: 0.8mm;
 }
 
 .show-print-preview .print-month-name {
   text-align: center;
-  font-size: 8pt;
+  font-size: 10pt;
   font-weight: bold;
-  margin: 0 0 0.5mm 0;
+  margin: 0 0 0.8mm 0;
   color: #1a5f3c;
 }
 
 .show-print-preview .print-calendar-grid {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
-  gap: 0.2px;
+  gap: 0.3px;
 }
 
 .show-print-preview .print-day-header {
   text-align: center;
-  font-size: 5pt;
+  font-size: 6pt;
   font-weight: bold;
-  padding: 0.3px;
+  padding: 0.5px;
   background: #f0f0f0;
   border: 0.5px solid #ddd;
 }
@@ -85,7 +85,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 6pt;
+  font-size: 8pt;
   border: 0.5px solid #ddd;
   position: relative;
 }
@@ -172,8 +172,8 @@
   .print-legend {
     display: flex;
     justify-content: center;
-    gap: 3px;
-    margin-bottom: 1mm;
+    gap: 4px;
+    margin-bottom: 1.5mm;
     page-break-after: avoid;
     flex-wrap: wrap;
   }
@@ -181,13 +181,13 @@
   .print-legend .legend-item {
     display: flex;
     align-items: center;
-    gap: 2px;
-    font-size: 7pt;
+    gap: 3px;
+    font-size: 8pt;
   }
 
   .print-legend .legend-color {
-    width: 8px;
-    height: 8px;
+    width: 10px;
+    height: 10px;
     border: 0.5px solid #000;
   }
 
@@ -195,7 +195,7 @@
   .print-months-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 1.5mm;
+    gap: 2mm;
     page-break-inside: avoid;
   }
 
@@ -203,14 +203,14 @@
   .print-month {
     page-break-inside: avoid;
     border: 0.5px solid #333;
-    padding: 0.5mm;
+    padding: 0.8mm;
   }
 
   .print-month-name {
     text-align: center;
-    font-size: 8pt;
+    font-size: 10pt;
     font-weight: bold;
-    margin: 0 0 0.5mm 0;
+    margin: 0 0 0.8mm 0;
     color: #1a5f3c;
   }
 
@@ -218,14 +218,14 @@
   .print-calendar-grid {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-    gap: 0.2px;
+    gap: 0.3px;
   }
 
   .print-day-header {
     text-align: center;
-    font-size: 5pt;
+    font-size: 6pt;
     font-weight: bold;
-    padding: 0.3px;
+    padding: 0.5px;
     background: #f0f0f0;
     border: 0.5px solid #ddd;
   }
@@ -235,7 +235,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 6pt;
+    font-size: 8pt;
     border: 0.5px solid #ddd;
     position: relative;
   }
