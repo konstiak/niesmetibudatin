@@ -40,7 +40,7 @@
   .printable-calendar {
     display: block !important;
     width: 100%;
-    padding: 10mm;
+    padding: 2mm;
   }
 
   /* Force print background colors */
@@ -69,7 +69,7 @@
   /* Page setup */
   @page {
     size: A4 portrait;
-    margin: 10mm;
+    margin: 5mm;
   }
 
   body {
@@ -77,37 +77,17 @@
     padding: 0;
   }
 
-  /* Header */
+  /* Hide header in print */
   .print-header {
-    text-align: center;
-    margin-bottom: 5mm;
-    page-break-after: avoid;
-  }
-
-  .print-header h1 {
-    font-size: 18pt;
-    margin: 0 0 2mm 0;
-    color: #1a5f3c;
-  }
-
-  .print-header h2 {
-    font-size: 14pt;
-    margin: 0 0 1mm 0;
-    color: #2d8659;
-  }
-
-  .print-header h3 {
-    font-size: 12pt;
-    margin: 0;
-    color: #333;
+    display: none !important;
   }
 
   /* Legend */
   .print-legend {
     display: flex;
     justify-content: center;
-    gap: 8px;
-    margin-bottom: 5mm;
+    gap: 4px;
+    margin-bottom: 2mm;
     page-break-after: avoid;
     flex-wrap: wrap;
   }
@@ -115,13 +95,13 @@
   .print-legend .legend-item {
     display: flex;
     align-items: center;
-    gap: 3px;
-    font-size: 8pt;
+    gap: 2px;
+    font-size: 6pt;
   }
 
   .print-legend .legend-color {
-    width: 12px;
-    height: 12px;
+    width: 8px;
+    height: 8px;
     border: 0.5px solid #000;
   }
 
@@ -129,7 +109,7 @@
   .print-months-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 4mm;
+    gap: 2mm;
     page-break-inside: avoid;
   }
 
@@ -137,14 +117,14 @@
   .print-month {
     page-break-inside: avoid;
     border: 0.5px solid #333;
-    padding: 2mm;
+    padding: 1mm;
   }
 
   .print-month-name {
     text-align: center;
-    font-size: 10pt;
+    font-size: 7pt;
     font-weight: bold;
-    margin: 0 0 2mm 0;
+    margin: 0 0 1mm 0;
     color: #1a5f3c;
   }
 
@@ -152,14 +132,14 @@
   .print-calendar-grid {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-    gap: 0.5px;
+    gap: 0.3px;
   }
 
   .print-day-header {
     text-align: center;
-    font-size: 6pt;
+    font-size: 5pt;
     font-weight: bold;
-    padding: 1px;
+    padding: 0.5px;
     background: #f0f0f0;
     border: 0.5px solid #ddd;
   }
@@ -169,7 +149,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 7pt;
+    font-size: 5pt;
     border: 0.5px solid #ddd;
     position: relative;
   }
@@ -191,14 +171,14 @@
   .print-day span.has-event {
     color: #000;
     font-weight: bold;
-    text-shadow: 0 0 2px #fff, 0 0 2px #fff;
+    text-shadow: 0 0 1px #fff, 0 0 1px #fff;
   }
 
   /* Footer */
   .print-footer {
     text-align: center;
-    margin-top: 3mm;
-    font-size: 7pt;
+    margin-top: 1mm;
+    font-size: 5pt;
     color: #666;
   }
 
