@@ -10,7 +10,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "serve": "vite preview",
-    "generate:calendar": "node scripts/generate-calendar-standalone.js"
+    "generate:calendar": "node scripts/generate-calendar-standalone.js",
+    "generate:all": "node scripts/generate-all-calendars.js"
   },
   "keywords": [
     "waste",

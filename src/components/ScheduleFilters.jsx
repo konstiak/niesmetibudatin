@@ -13,6 +13,25 @@ const ScheduleFilters = ({ selectedStreet, onStreetChange, allEvents, onPrintCli
     }
   };
 
+  // Funkcia pre odstránenie diakritiky
+  const removeDiacritics = (str) => {
+    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  };
+
+  // Získame webcal URL pre iOS kalendár
+  const getWebcalUrl = () => {
+    const protocol = 'webcal:';
+    const host = window.location.host;
+
+    if (selectedStreet) {
+      const noDiacritics = removeDiacritics(selectedStreet);
+      const safeStreetName = noDiacritics.replace(/[^a-z0-9]/gi, '-').toLowerCase();
+      return `${protocol}//${host}/calendar-${safeStreetName}.ics`;
+    }
+
+    return `${protocol}//${host}/calendar.ics`;
+  };
+
   return (
     <div className="filters">
       <div className="filter-group">
@@ -32,13 +51,14 @@ const ScheduleFilters = ({ selectedStreet, onStreetChange, allEvents, onPrintCli
       </div>
 
       <div className="export-buttons">
-        <button
+        <a
+          href={getWebcalUrl()}
           className="btn btn-primary"
-          onClick={handleExportICS}
+          style={{ textDecoration: 'none', display: 'inline-block' }}
         >
           📅 Pridať do iOS kalendára
           {selectedStreet && ` (${selectedStreet})`}
-        </button>
+        </a>
         <button
           className="btn btn-secondary"
           onClick={handleExportICS}
