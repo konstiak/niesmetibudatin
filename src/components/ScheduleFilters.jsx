@@ -46,12 +46,20 @@ const ScheduleFilters = ({ selectedStreet, onStreetChange, allEvents, onPrintCli
         >
           📅 Pridať do iOS kalendára
         </a>
+        <a
+          href="/calendar.ics"
+          download="odvoz-odpadu-budatin-2026.ics"
+          className="btn btn-secondary"
+          style={{ textDecoration: 'none', display: 'inline-block', marginLeft: '10px' }}
+        >
+          📥 Export do ics
+        </a>
         <button
           className="btn btn-secondary"
           onClick={handleExport}
           style={{ marginLeft: '10px' }}
         >
-          💾 Stiahnuť kalendár
+          💾 Stiahnuť kalendár (filter)
         </button>
         <button
           className="btn btn-secondary"
