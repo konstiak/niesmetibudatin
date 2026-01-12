@@ -25,7 +25,6 @@ export const exportToICS = (events, street = null) => {
 
     return {
       start: [year, month, day],
-      end: [year, month, day],
       title,
       description,
       location: `Budatín, Žilina${street ? `, ${street}` : ''}`,
