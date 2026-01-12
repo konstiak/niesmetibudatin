@@ -40,7 +40,7 @@
   .printable-calendar {
     display: block !important;
     width: 100%;
-    padding: 2mm;
+    padding: 1mm;
   }
 
   /* Force print background colors */
@@ -69,7 +69,7 @@
   /* Page setup */
   @page {
     size: A4 portrait;
-    margin: 5mm;
+    margin: 3mm;
   }
 
   body {
@@ -86,8 +86,8 @@
   .print-legend {
     display: flex;
     justify-content: center;
-    gap: 4px;
-    margin-bottom: 2mm;
+    gap: 2px;
+    margin-bottom: 1mm;
     page-break-after: avoid;
     flex-wrap: wrap;
   }
@@ -95,13 +95,13 @@
   .print-legend .legend-item {
     display: flex;
     align-items: center;
-    gap: 2px;
-    font-size: 6pt;
+    gap: 1px;
+    font-size: 5pt;
   }
 
   .print-legend .legend-color {
-    width: 8px;
-    height: 8px;
+    width: 6px;
+    height: 6px;
     border: 0.5px solid #000;
   }
 
@@ -109,7 +109,7 @@
   .print-months-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 2mm;
+    gap: 1.5mm;
     page-break-inside: avoid;
   }
 
@@ -117,14 +117,14 @@
   .print-month {
     page-break-inside: avoid;
     border: 0.5px solid #333;
-    padding: 1mm;
+    padding: 0.5mm;
   }
 
   .print-month-name {
     text-align: center;
-    font-size: 7pt;
+    font-size: 6pt;
     font-weight: bold;
-    margin: 0 0 1mm 0;
+    margin: 0 0 0.5mm 0;
     color: #1a5f3c;
   }
 
@@ -132,14 +132,14 @@
   .print-calendar-grid {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-    gap: 0.3px;
+    gap: 0.2px;
   }
 
   .print-day-header {
     text-align: center;
-    font-size: 5pt;
+    font-size: 4pt;
     font-weight: bold;
-    padding: 0.5px;
+    padding: 0.3px;
     background: #f0f0f0;
     border: 0.5px solid #ddd;
   }
@@ -149,7 +149,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 5pt;
+    font-size: 4pt;
     border: 0.5px solid #ddd;
     position: relative;
   }
@@ -171,14 +171,14 @@
   .print-day span.has-event {
     color: #000;
     font-weight: bold;
-    text-shadow: 0 0 1px #fff, 0 0 1px #fff;
+    text-shadow: 0 0 0.5px #fff, 0 0 0.5px #fff;
   }
 
   /* Footer */
   .print-footer {
     text-align: center;
-    margin-top: 1mm;
-    font-size: 5pt;
+    margin-top: 0.5mm;
+    font-size: 4pt;
     color: #666;
   }
 
