@@ -122,6 +122,53 @@ export const getMonthName = (month) => {
   return months[month - 1];
 };
 
+/**
+ * Generates all waste collection events from provided schedule data
+ * @param {Object} data - Schedule data object
+ * @returns {Array} Array of event objects with date, wasteType, and districts
+ */
+export const getAllEvents = (data) => {
+  const events = [];
+  const schedule = data.schedule;
+  const year = data.year;
+
+  // Process each waste type
+  Object.entries(schedule).forEach(([wasteTypeKey, monthData]) => {
+    Object.entries(monthData).forEach(([month, days]) => {
+      days.forEach(day => {
+        // Create date string directly to avoid timezone issues
+        const dateStr = `${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+
+        // Determine which districts this applies to
+        let districts = [];
+        let wasteType = wasteTypeKey;
+
+        if (wasteTypeKey.startsWith('zko_')) {
+          const districtNum = wasteTypeKey.split('_')[1];
+          districts = data.districts[`ZKO_${districtNum}`].streets;
+          wasteType = 'zko';
+        } else if (wasteTypeKey.startsWith('brko_')) {
+          const districtNum = wasteTypeKey.split('_')[1];
+          districts = data.districts[`BRKO_${districtNum}`].streets;
+          wasteType = 'brko';
+        } else {
+          districts = data.districts.ALL.streets;
+        }
+
+        events.push({
+          date: dateStr,
+          wasteType,
+          wasteTypeKey,
+          districts,
+          wasteInfo: data.wasteTypes[wasteType]
+        });
+      });
+    });
+  });
+
+  return events.sort((a, b) => new Date(a.date) - new Date(b.date));
+};
+
 export default {
   getWasteTypes,
   getDistricts,
@@ -132,5 +179,6 @@ export default {
   getUpcomingEvents,
   getAllStreets,
   formatDate,
-  getMonthName
+  getMonthName,
+  getAllEvents
 };

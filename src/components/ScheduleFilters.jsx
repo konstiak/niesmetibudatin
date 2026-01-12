@@ -13,6 +13,13 @@ const ScheduleFilters = ({ selectedStreet, onStreetChange, allEvents, onPrintCli
     }
   };
 
+  // Získame aktuálny hostname a port pre webcal URL
+  const getWebcalUrl = () => {
+    const protocol = window.location.protocol === 'https:' ? 'webcal:' : 'webcal:';
+    const host = window.location.host;
+    return `${protocol}//${host}/calendar.ics`;
+  };
+
   return (
     <div className="filters">
       <div className="filter-group">
@@ -32,8 +39,19 @@ const ScheduleFilters = ({ selectedStreet, onStreetChange, allEvents, onPrintCli
       </div>
 
       <div className="export-buttons">
-        <button className="btn btn-primary" onClick={handleExport}>
-          📅 Exportovať do kalendára (iOS)
+        <a
+          href={getWebcalUrl()}
+          className="btn btn-primary"
+          style={{ textDecoration: 'none', display: 'inline-block' }}
+        >
+          📅 Pridať do iOS kalendára
+        </a>
+        <button
+          className="btn btn-secondary"
+          onClick={handleExport}
+          style={{ marginLeft: '10px' }}
+        >
+          💾 Stiahnuť kalendár
         </button>
         <button
           className="btn btn-secondary"
