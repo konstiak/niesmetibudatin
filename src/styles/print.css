@@ -33,6 +33,15 @@
   flex-wrap: wrap;
 }
 
+.show-print-preview .print-street-name {
+  width: 100%;
+  text-align: center;
+  font-size: 7pt;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 1mm;
+}
+
 .show-print-preview .print-legend .legend-item {
   display: flex;
   align-items: center;
@@ -176,6 +185,15 @@
     margin-bottom: 1.5mm;
     page-break-after: avoid;
     flex-wrap: wrap;
+  }
+
+  .print-street-name {
+    width: 100%;
+    text-align: center;
+    font-size: 7pt;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 1mm;
   }
 
   .print-legend .legend-item {

@@ -85,6 +85,11 @@ const PrintableCalendar = ({ events, selectedStreet }) => {
   return (
     <div className="printable-calendar">
       <div className="print-legend">
+        {selectedStreet && (
+          <div className="print-street-name">
+            {selectedStreet}
+          </div>
+        )}
         <div className="legend-item">
           <div className="legend-color" style={{ backgroundColor: '#FFD700' }}></div>
           <span>Plast</span>
